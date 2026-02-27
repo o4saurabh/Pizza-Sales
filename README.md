@@ -109,3 +109,4 @@ Focus on top-performing categories
 
 📸 Dashboard Screenshots
 ![Dashboard Screenshot](Pizza_Home_Dashboard.png)
+![Dashboard Screenshot](Pizza_Sales_Dashboard.png)
